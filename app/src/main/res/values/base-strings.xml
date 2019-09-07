@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Round Preview</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+            This sample demonstrates how to display TextureView round using Custom FrameLayout.
+            
+        
+        ]]>
+    </string>
+</resources>
